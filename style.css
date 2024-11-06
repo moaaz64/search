@@ -49,9 +49,11 @@ font-size: 18px;
     color: #ff676d;
     font-size: 20px;
     border-radius: 25px;
+    cursor: pointer;
 }
 #checkbox{
     display: none;
+   cursor: pointer;
 }
 #checkbox:checked ~ .search-box{
     max-width: 380px;
